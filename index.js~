@@ -3,7 +3,7 @@ var app = express()
 var exphbs  = require('express-handlebars')
 
 var primarySchools = require('./data/primarySchools');
-var highSchools = require('./data/highSchools');
+var highScools = require('./data/highSchools');
 var privateOther = require('./data/privateOther');
 
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
