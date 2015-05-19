@@ -36,6 +36,9 @@ app.get('/privateOther', function (req, res) {
 app.get('/search', function (req, res) {
     res.render('area');
 });
+app.get('/search_areaHighSchool', function (req, res) {
+    res.render('area_highSchool');
+});
 
 app.get('/soon', function (req, res) {
     res.render('comingsoon');

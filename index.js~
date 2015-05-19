@@ -36,10 +36,13 @@ app.get('/privateOther', function (req, res) {
 app.get('/search', function (req, res) {
     res.render('area');
 });
+app.get('/search', function (req, res) {
+    res.render('area_highSchool');
+});
 
-/*app.get('/soon', function (req, res) {
+app.get('/soon', function (req, res) {
     res.render('comingsoon');
-});*/
+});
 
 app.get('/contact', function (req, res) {
     res.render('contact');
