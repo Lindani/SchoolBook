@@ -1,14 +1,22 @@
 [
 	{
-		"name" : "#",
-		"id" : "#",
-		"info" : "#"},
-
+		"name" : "ROCKLANDS",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 392 7139",
+				 "address" : "4 Cedar Way, Rocklands",
+				 "email" : "admin@rss.wcape.school.za"
+			 }
+	},
 	{
 	
-		"name" : "#",
-		"id" : "#",
-		"info" : "#"
+		"name" : "A.Z. BERMAN",
+		"id" : "/images/primarySchools/azberman.jpg",
+		"info" : {   "type":"Public School",
+				 "contact" : "2721 376 7802",
+				 "address" : "C/O A.Z. Berman & Kerrem Ave, Beacon Valley",
+				 "email" : "admin@azberman.wcape.school.za"
+			 }
 	}
 	
 ]
